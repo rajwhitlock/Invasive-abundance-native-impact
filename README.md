@@ -1,4 +1,9 @@
 # Invasive-abundance-native-impact
+
+
+https://zenodo.org/badge/latestdoi/176828931
+
+
 R-scripts for meta-analysis of the impacts of increasing invasive species' abundance on native animal and plant populations and communities
 
 These scripts support meta-analysis of the relationship between increasing invasive species abundance and native species' responses at the population level and the community level. The scripts are designed for analysis of a dataset synthesising invasive species impacts in a wide range of study taxa and habitat types globally. Datasets referred to in the script are published separately, and the location of these files will be given here on publication. The meta-analysis code presented in this repository is, together with the seperately published raw data, sufficient to replicate analyses presented in the following manuscript:
